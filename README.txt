@@ -2,3 +2,7 @@ https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-data
 https://github.com/LuckysonKhaidem/StockMarketPedicition
 https://www.youtube.com/watch?v=E2LX_hUHMn0
 https://www.youtube.com/watch?v=7S0gBn5cjYM
+
+
+starting point:
+https://www.youtube.com/watch?v=7S0gBn5cjYM
