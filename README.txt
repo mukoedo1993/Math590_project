@@ -7,6 +7,9 @@ Sep, 21st,
 starting point:
 https://www.youtube.com/watch?v=7S0gBn5cjYM
 
+Sep, 25th
+https://www.youtube.com/watch?v=iJmteST6fP8
+
 Sep, 22nd
 starting point:
 https://blog.quantinsti.com/random-forest-algorithm-in-python/
