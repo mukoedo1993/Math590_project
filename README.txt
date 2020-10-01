@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=iJmteST6fP8
 Sep, 22nd
 starting point:
 https://blog.quantinsti.com/random-forest-algorithm-in-python/
+
+
+Oct 1st,
+https://developer.tdameritrade.com/
