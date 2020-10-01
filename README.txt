@@ -17,3 +17,7 @@ https://blog.quantinsti.com/random-forest-algorithm-in-python/
 
 Oct 1st,
 https://developer.tdameritrade.com/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+https://www.youtube.com/watch?v=8N1IxYXs4e8
+18min
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
